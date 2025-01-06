@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel="shortcut icon" href="{{ asset('assets/favicon.png')}}" type="image/x-icon">
-    <title>E-Permits-SMA Negeri 1 Banyuwangi</title>
+    <title>E-Permits-</title>
     @vite(['resources/css/app.css','resources/js/app.js'])
 </head>
 
@@ -20,7 +20,7 @@
                 <span class="self-center text-2xl font-semibold italic whitespace-nowrap dark:text-white">E-Permits</span>
             </a>
             <div class="flex items-center space-x-6 rtl:space-x-reverse">
-                <a href="#" class="hidden sm:block text-sm  text-gray-500 dark:text-white hover:underline">SMA Negeri 1 Banyuwangi</a>
+                <a href="#" class="hidden sm:block text-sm  text-gray-500 dark:text-white hover:underline">High School</a>
                 <a href="{{ route('login') }}" class="text-sm font-semibold  text-blue-600 dark:text-blue-500 hover:underline">Login</a>
             </div>
         </div>

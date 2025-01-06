@@ -88,9 +88,9 @@
     <div class="letterhead">
         <img class="logo" src="{{ asset('assets/favicon.png')}}" alt="School Logo">
         <div class="teks">
-            <h2>SMA Negeri 1 Banyuwangi</h2>
-            <p>Alamat: Jl. Ikan Tongkol, Kertosari, Kec. Banyuwangi, Kabupaten Banyuwangi, Jawa Timur 68418</p>
-            <p>Telepon: (0333) 423589</p>
+            <h2>High School</h2>
+            <p>Alamat: padang, singojuruh, banyuwangi</p>
+            <p>Telepon: (0333) 11111111</p>
         </div>
     </div>
     <hr>
